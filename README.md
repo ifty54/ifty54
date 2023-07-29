@@ -1,4 +1,4 @@
-# Hey there! Myself, Al-Amin Ifty! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="LinkedIn" width="50" height="50">
+# Hey there! Myself, Al-Amin Ifty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="LinkedIn" width="50" height="50">
 
 I'm a Machine Learning & Deep Learning Enthusiast, a PhD Aspirant!
  
