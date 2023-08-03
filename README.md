@@ -34,7 +34,7 @@ Looking for `collaboration on Python projects`
 
 ![research interest (4)](https://github.com/ifty54/ifty54/assets/31790027/6a996ee7-8927-47f7-a800-7abf01f07f06)
 
-![Untitled design (2)](https://github.com/ifty54/ifty54/assets/31790027/01fced38-e8c9-4458-9612-351809c723bf)
+![Untitled design (2)](https://github.com/ifty54/ifty54/assets/31790027/03715a12-2adc-4c80-90c4-132d8d3b058a)
 
 ![research interest (5)](https://github.com/ifty54/ifty54/assets/31790027/b54d2cbc-c0a4-4525-b147-a59d37106c27)
 
