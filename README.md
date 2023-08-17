@@ -10,6 +10,8 @@ I'm a Machine Learning & Deep Learning Enthusiast, a PhD Aspirant!
 
 ⏩ Generative Adversarial Network
 
+⏩ Stable Diffusion (NLP)
+
 ![research interest](https://github.com/ifty54/ifty54/assets/31790027/ec38c6ee-41e8-4562-af9d-360afe85abe6)
 
 👉 _Skin Disease Detection using CNN_ (Deep Learning Project) 
