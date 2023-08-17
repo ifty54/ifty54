@@ -6,7 +6,7 @@ I'm a Machine Learning & Deep Learning Enthusiast, a PhD Aspirant!
 
 ⏩ Computer Vision
 
-⏩ Deep Learning
+⏩ Machine Learning
 
 ⏩ Generative Adversarial Network
 
@@ -22,7 +22,7 @@ https://www.researchgate.net/publication/359397706_A_Characterization_of_Flat_Me
 
 ![research interest (2)](https://github.com/ifty54/ifty54/assets/31790027/798b58fd-4f61-4329-a249-24cf105e364d)
 
-👉 _Dynamic Website Development_ (React.JS Project)
+👉 _Dynamic Website Development_ (PHP Project)
 
 Looking for `collaboration on Python projects`
 
