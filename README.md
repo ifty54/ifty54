@@ -10,23 +10,24 @@ Hi! I'm a Machine Learning & Deep Learning Enthusiast, a PhD Aspirant!
 
 ⏩ Generative Adversarial Network
 
-![research interest](https://github.com/ifty54/ifty54/assets/31790027/ec38c6ee-41e8-4562-af9d-360afe85abe6)
 
-👉 _Skin Disease Detection using CNN_ (Deep Learning Project) 
+![Al-Amin ifty (2)](https://github.com/ifty54/ifty54/assets/31790027/6aa9e86b-dbe0-4b13-b429-e866e29a1940)
 
-https://github.com/GigBig-Analytics/CNN-based-Skin-Cancer-Disease-Detection-Using-Ham10000-Dataset
- 
 👉 _A Characterization of Flat Meet Semilattices_
 
 https://www.researchgate.net/publication/359397706_A_Characterization_of_Flat_Meet_Semilattices 
 
-![research interest (2)](https://github.com/ifty54/ifty54/assets/31790027/798b58fd-4f61-4329-a249-24cf105e364d)
+![Al-Amin ifty (11)](https://github.com/ifty54/ifty54/assets/31790027/6d6d359b-1604-4134-9956-81c84c8565a8)
+
+👉 _Skin Disease Detection using CNN_ (Deep Learning Project) 
+
+https://github.com/GigBig-Analytics/CNN-based-Skin-Cancer-Disease-Detection-Using-Ham10000-Dataset
+
+![Al-Amin ifty (6)](https://github.com/ifty54/ifty54/assets/31790027/f5445173-e867-4ce2-9bc6-024445db1713)
 
 👉 _Dynamic Website Development_ (PHP Project)
 
-Looking for `collaboration on Python projects`
-
-![research interest (3)](https://github.com/ifty54/ifty54/assets/31790027/100d34f4-8136-4ae2-ba83-cdf3f2e31097)
+![Al-Amin ifty (9)](https://github.com/ifty54/ifty54/assets/31790027/7a024f1f-e2a9-4696-b3d2-b9bf0604ad42)
 
 ### GigBig Analytics `Since 2023` | Project Six Four `Since 2019`
 
@@ -36,7 +37,7 @@ Looking for `collaboration on Python projects`
 
 ![Untitled design (2)](https://github.com/ifty54/ifty54/assets/31790027/03715a12-2adc-4c80-90c4-132d8d3b058a)
 
-![research interest (5)](https://github.com/ifty54/ifty54/assets/31790027/b54d2cbc-c0a4-4525-b147-a59d37106c27)
+![Al-Amin ifty (7)](https://github.com/ifty54/ifty54/assets/31790027/5e2fabdd-10e8-4682-a994-a98580620a85)
 
 I have worked in Technical Content Developer roles at `Rank Wizards LLC`, `Muskly` & `YSSE`.
 
@@ -46,7 +47,7 @@ With expertise in `Search Engine Optimization`, I have done several Client proje
 
 📫 reach me at ifty.alamin54@gmail.com or alamin58@student.sust.edu
 
-![research interest (6)](https://github.com/ifty54/ifty54/assets/31790027/c85e67d8-333b-42d4-97b8-52fd611db630)
+![Al-Amin ifty (8)](https://github.com/ifty54/ifty54/assets/31790027/bdc0fb03-e94e-4e59-b85f-5d5c21bbea35)
 
 <a href="https://www.linkedin.com/in/ifty54/">
   <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-z5dvl47c.png" alt="LinkedIn" width="50" height="50">
