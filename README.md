@@ -47,6 +47,10 @@ With expertise in `Search Engine Optimization`, I have done several Client proje
 
 📫 reach me at ifty.alamin54@gmail.com or alamin58@student.sust.edu
 
+![Al-Amin ifty (13)](https://github.com/ifty54/ifty54/assets/31790027/4a395c51-9ae3-4aae-b212-b532e147db81)
+
+![Al-Amin ifty (14)](https://github.com/ifty54/ifty54/assets/31790027/8376533c-4326-4f15-ad6c-b15edc646e61)
+
 ![Al-Amin ifty (8)](https://github.com/ifty54/ifty54/assets/31790027/bdc0fb03-e94e-4e59-b85f-5d5c21bbea35)
 
 <a href="https://www.linkedin.com/in/ifty54/">
