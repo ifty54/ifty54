@@ -1,8 +1,8 @@
-# Hey there! Myself, Al-Amin Ifty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="LinkedIn" width="50" height="50">
+![Al-Amin ifty](https://github.com/ifty54/ifty54/assets/31790027/88b06667-8d3d-4a1b-a530-d439078bb712)
 
-I'm a Machine Learning & Deep Learning Enthusiast, a PhD Aspirant!
- 
-![research interest (1)](https://github.com/ifty54/ifty54/assets/31790027/80fb3122-fe90-421f-94f2-66b105650ca8)
+Hi! I'm a Machine Learning & Deep Learning Enthusiast, a PhD Aspirant!
+
+![Al-Amin ifty (1)](https://github.com/ifty54/ifty54/assets/31790027/a483ec55-a036-4374-9376-4a64a3a21593)
 
 ⏩ Computer Vision
 
