@@ -8,7 +8,7 @@ Hi! I'm a Machine Learning & Deep Learning Enthusiast, a PhD Aspirant!
 
 ⏩ Machine Learning
 
-⏩ Generative Adversarial Network
+⏩ Generative Adversarial Network (GANs)
 
 
 ![Al-Amin ifty (2)](https://github.com/ifty54/ifty54/assets/31790027/6aa9e86b-dbe0-4b13-b429-e866e29a1940)
