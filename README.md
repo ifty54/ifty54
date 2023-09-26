@@ -1,6 +1,8 @@
+<h2>Hey There! Myself </h2> 
+
 ![Al-Amin ifty](https://github.com/ifty54/ifty54/assets/31790027/88b06667-8d3d-4a1b-a530-d439078bb712)
 
-Hello! I'm passionate about Machine Learning & Deep Learning, and I'm on a journey toward pursuing a PhD!
+passionate about Machine Learning & Deep Learning, and I'm on a journey toward pursuing a PhD!
 
 ![Al-Amin ifty (1)](https://github.com/ifty54/ifty54/assets/31790027/a483ec55-a036-4374-9376-4a64a3a21593)
 
