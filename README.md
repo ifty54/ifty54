@@ -37,7 +37,7 @@ https://github.com/GigBig-Analytics/CNN-based-Skin-Cancer-Disease-Detection-Usin
 
 ![Al-Amin ifty (12)](https://github.com/ifty54/ifty54/assets/31790027/4f397d8d-5195-430a-ab80-252588627d24)
 
-![Untitled design (2)](https://github.com/ifty54/ifty54/assets/31790027/03715a12-2adc-4c80-90c4-132d8d3b058a)
+![Untitled design (3)](https://github.com/ifty54/ifty54/assets/31790027/6018d730-db35-4f7f-b47f-7d45909b6e8e)
 
 ![Al-Amin ifty (7)](https://github.com/ifty54/ifty54/assets/31790027/5e2fabdd-10e8-4682-a994-a98580620a85)
 
