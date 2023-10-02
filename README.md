@@ -41,9 +41,17 @@ https://github.com/GigBig-Analytics/CNN-based-Skin-Cancer-Disease-Detection-Usin
 
 ![Al-Amin ifty (7)](https://github.com/ifty54/ifty54/assets/31790027/5e2fabdd-10e8-4682-a994-a98580620a85)
 
-I have worked in Technical Content Developer roles at `Rank Wizards LLC`, `Muskly` & `YSSE`.
+*Technical Content Developer* & *Intern*- `Rank Wizards LLC` `2022`
 
-![Untitled design (6)](https://github.com/ifty54/ifty54/assets/31790027/0b0cabd8-32c3-4203-b77b-868ced49a814)
+*Technical Content Writer* - `Muskly` `2020-21`
+
+*Content Intern* - `Youth School for Social Entrepreneurs (YSSE)` `2020`
+
+*Campus Ambassador* - `Youth Opportunities (YO)` `2020`
+
+*Campus Ambassador* - `Bangladesh Youth Leadership Center (BYLC)` `2019`
+
+*Changemaking Intern* - `Ashoka` `2018`
 
 With expertise in `Search Engine Optimization`, I have done several Client projects and Freelancing at Marketplaces including `Fiverr`, `Upwork`. But talking about Artificial Intelligence, it always has been on my radar to go with!
 
