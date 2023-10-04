@@ -8,6 +8,8 @@ passionate about Machine Learning & Deep Learning, and I'm on a journey toward p
 
 ⏩ Computer Vision
 
+⏩ Natural Language Processing (LLM)
+
 ⏩ Machine Learning
 
 ⏩ Generative Adversarial Network (GANs)
