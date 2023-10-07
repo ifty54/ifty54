@@ -2,7 +2,11 @@
 
 ![Al-Amin ifty](https://github.com/ifty54/ifty54/assets/31790027/88b06667-8d3d-4a1b-a530-d439078bb712)
 
-I'm passionate about Machine Learning & Deep Learning, currently working as a Data Analyst, soon on a journey toward pursuing a PhD!
+I'm passionate about Machine Learning & Deep Learning, soon on a journey towards pursuing PhD degree!
+
+![Al-Amin ifty](https://github.com/ifty54/ifty54/assets/31790027/d2a243e8-922e-45bc-979f-bceefb91099c)
+
+Data Analytics Intern- MedTourEasy
 
 ![Al-Amin ifty (1)](https://github.com/ifty54/ifty54/assets/31790027/a483ec55-a036-4374-9376-4a64a3a21593)
 
