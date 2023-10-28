@@ -63,7 +63,7 @@ https://github.com/GigBig-Analytics/CNN-based-Skin-Cancer-Disease-Detection-Usin
 
 With expertise in `Search Engine Optimization`, I have done several Client projects and Freelancing at Marketplaces including `Fiverr`, `Upwork`. But talking about Artificial Intelligence, it always has been on my radar to go with!
 
-📫 reach me at ifty.alamin54@gmail.com or alamin58@student.sust.edu
+Reach me at ifty.alamin54@gmail.com or alamin58@student.sust.edu
 
 ![Al-Amin ifty (13)](https://github.com/ifty54/ifty54/assets/31790027/4a395c51-9ae3-4aae-b212-b532e147db81)
 
