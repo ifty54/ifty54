@@ -2,7 +2,11 @@
 
 ![Al-Amin ifty](https://github.com/ifty54/ifty54/assets/31790027/88b06667-8d3d-4a1b-a530-d439078bb712)
 
-I'm passionate about Machine Learning & Deep Learning, soon on the journey towards pursuing PhD degree!
+Passionate about doing research on advanced Deep Learning technologies to solve real-world problems.
+
+Whether it's developing new deep learning models for detecting and classifying cyberattacks, improving the robustness of deep learning models to adversarial attacks, or using deep learning to design new cryptographic algorithms and protocols, I'm excited to explore all the possibilities.
+
+If you're interested in collaborating on interesting and challenging cybersecurity research projects, let's chat!
 
 ![Al-Amin ifty](https://github.com/ifty54/ifty54/assets/31790027/d2a243e8-922e-45bc-979f-bceefb91099c)
 
