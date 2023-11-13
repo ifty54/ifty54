@@ -18,7 +18,7 @@ Data Analyst Intern- Dry Code
 
 ⏩ Computer Vision
 
-⏩ Natural Language Processing (LLM)
+⏩ Natural Language Processing (NLP)
 
 ⏩ Machine Learning
 
