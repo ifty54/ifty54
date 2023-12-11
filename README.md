@@ -16,11 +16,11 @@ Data Analyst Intern- Dry Code
 
 ![Al-Amin ifty (1)](https://github.com/ifty54/ifty54/assets/31790027/a483ec55-a036-4374-9376-4a64a3a21593)
 
+⏩ Cybersecurity
+
 ⏩ Computer Vision
 
-⏩ Natural Language Processing (NLP)
-
-⏩ Machine Learning
+⏩ Adversarial Machine Learning
 
 ⏩ Generative Adversarial Network (GANs)
 
